@@ -1,4 +1,4 @@
-def my_each(array) # put argument(s) here
+def my_each(array) 
   # code here
   if block_given?
     n = 0
